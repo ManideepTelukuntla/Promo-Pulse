@@ -39,7 +39,11 @@ Detailed installation instructions and system requirements will be provided, ens
 A comprehensive guide on how to integrate and use PromoPulse for optimizing retail operations and advertising strategies in convenience stores will be available.
 
 ## Contributors
-This section will list the individuals or teams contributing to the development and maintenance of PromoPulse.
+- Manideep Telukuntla
+- Kapish Krishna Bodapati
+- Vaishnavi Ganesh
+- Dinesh Bandaru
+- Santhosh Kumar Ramkumar
 
 ## License
 PromoPulse is made available under the MIT License, allowing for widespread use and adaptation in various settings.
