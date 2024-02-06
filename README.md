@@ -8,9 +8,7 @@
 4. [Features](#features)
 5. [Technology Stack](#technology-stack)
 6. [Installation/Requirements](#installationrequirements)
-7. [Usage Guide](#usage-guide)
-8. [Contributors](#contributors)
-9. [License](#license)
+7. [License](#license)
 
 ## Introduction/Overview
 PromoPulse is an innovative solution designed to bridge the digital divide for mom-and-pop convenience stores (C-stores). By leveraging advanced analytics and digital advertising, PromoPulse aims to enhance inventory management and retail sales, empowering small store operators to compete effectively against branded chains.
@@ -31,12 +29,6 @@ PromoPulse utilizes DX Promote®, a cutting-edge advertising technology that has
 - Azure Data Factory (ETL)
 - Azure Databricks
 - Custom algorithms for predictive modeling and dynamic advertisement sizing.
-
-## Installation/Requirements
-Detailed installation instructions and system requirements will be provided, ensuring users can effectively deploy and utilize PromoPulse in their operations.
-
-## Usage Guide
-A comprehensive guide on how to integrate and use PromoPulse for optimizing retail operations and advertising strategies in convenience stores will be available.
 
 ## Contributors
 - Manideep Telukuntla
